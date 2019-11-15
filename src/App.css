@@ -1,11 +1,17 @@
+.App{
+  padding: 5px;
+}
+
 .betaText {
   background: orangered;
   color: white;
   font-size: 20px;
   text-align: center;
+  align-content: center;
+  padding-right:15px;
   position: absolute;
-  top: 34px;
-  left: 2px;
-  width: 100px;
+  top: 10px;
+  left:-35px;
+  width: 150px;
   transform: rotate(-45deg);
 }
